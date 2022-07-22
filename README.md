@@ -7,8 +7,7 @@ The vehicle length and ground clearence (as well as the intercept) provided a no
 ![image](https://user-images.githubusercontent.com/103209236/180464363-404ca050-98d2-438f-9430-ff7a2972fb87.png)
 
 
-
-Is the slope of the linear model considered to be zero? Why or why not?
+The slope of the linear model is considered not to be zero because the p-value of our linear regression analysis is 5.35e-11, much smaller than .05 (our assumed significance level).
 
 
 
