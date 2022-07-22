@@ -10,5 +10,4 @@ The vehicle length and ground clearence (as well as the intercept) provided a no
 The slope of the linear model is considered not to be zero because the p-value of our linear regression analysis is 5.35e-11, much smaller than .05 (our assumed significance level).
 
 
-
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+This linear model does predict mpg of MechaCar prototypes fairly effectively. This is due to the R-squared value being .7149, or roughly 71%. This means that 71% of the variablilty of our dependent variable (mpg) is explained using this linear model. However, more significant variables would be ideal as overfitting may be in play. This would mean that the model performs well with this data set, but might fail to generalize and predict future data correctly.
